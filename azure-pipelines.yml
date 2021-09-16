@@ -27,7 +27,7 @@ steps:
 
   displayName: 'Use Python $(python.version)'
 
-- script: python "sum.py"
+- script: python "Sum.py"
 
 
 - task: PythonScript@0
